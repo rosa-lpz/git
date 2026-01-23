@@ -190,6 +190,5 @@ https://www.delftstack.com/howto/git/git-untrack-folder/
 # References
 
 * https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
-* https://www.ivanontiveros.com/git-cheat-sheet/
 * https://stackoverflow.com/questions/1611215/remove-a-git-commit-which-has-not-been-pushed
 * https://www.delftstack.com/howto/git/git-untrack-folder/
