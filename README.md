@@ -187,6 +187,13 @@ This will finalize the untracking process and ensure that your repository remain
 
 https://www.delftstack.com/howto/git/git-untrack-folder/
 
+# User
+```bash
+```bash
+git config --global user.email "you@exmaple.com"
+git config --global user.name "Your name"
+```
+
 # References
 
 * https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
